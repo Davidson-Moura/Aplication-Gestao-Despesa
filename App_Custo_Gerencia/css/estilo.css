@@ -1,0 +1,22 @@
+.bg-red{
+    background-color: rgb(250, 103, 103);
+}
+.bg-red a{
+    color: white;
+}
+.bg-red a:hover{
+    color: black;
+}
+/*Conteudo*/
+#conteudo{
+    margin-top: 100px;
+}
+.botao{
+    height: 40px;
+}
+.btn-red{
+    position: absolute;
+    width: 25%;
+    left: 50%;
+    background-color: rgb(250, 103, 103);
+}
