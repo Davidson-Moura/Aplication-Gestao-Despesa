@@ -1,3 +1,3 @@
 # JS-HTML-CSS
 
-## *Pesquisa nesse projeto esta incompleta
+## *A Pesquisa nesse projeto esta incompleta
